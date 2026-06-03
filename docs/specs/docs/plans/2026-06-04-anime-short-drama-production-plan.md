@@ -49,3 +49,29 @@ Write `docs/superpowers/storyboards/2026-06-04-pilot-storyboard-template.md` wit
 
 ```md
 # Pilot Storyboard Template
+
+## Episode Info
+
+- Episode title:
+- Runtime target:
+- Core conflict:
+- Ending hook:
+
+## Shot List
+
+| Shot | Time | Framing | Visual Action | Dialogue/VO | Subtitle Focus | SFX/BGM | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 0:00-0:03 |  |  |  |  |  |  |
+| 2 | 0:03-0:08 |  |  |  |  |  |  |
+| 3 | 0:08-0:15 |  |  |  |  |  |  |
+| 4 | 0:15-0:24 |  |  |  |  |  |  |
+| 5 | 0:24-0:35 |  |  |  |  |  |  |
+| 6 | 0:35-0:48 |  |  |  |  |  |  |
+| 7 | 0:48-0:60 |  |  |  |  |  |  |
+
+## Review Checks
+
+- Hook is visible inside first 3 seconds
+- Conflict is understandable without backstory
+- Subtitle beats fit mobile reading speed
+- Ending creates either a laugh or a comment prompt
